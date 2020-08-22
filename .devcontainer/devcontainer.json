@@ -1,6 +1,5 @@
 {
 	"name": "Ruby",
-    "dockerfile": "../Dockerfile",
 	"workspaceFolder": "/usr/src/app",
 	"dockerFile": "../Dockerfile",
 	"context": "..",
