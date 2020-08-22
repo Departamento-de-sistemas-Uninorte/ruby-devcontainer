@@ -1,0 +1,10 @@
+{
+	"name": "Ruby",
+    "dockerfile": "../Dockerfile",
+	"workspaceFolder": "/usr/src/app",
+	"dockerFile": "../Dockerfile",
+	"context": "..",
+	"settings": {
+		"terminal.integrated.shell.linux": null
+	},
+}
